@@ -12,10 +12,7 @@ I’m a full-stack web development student, currently diving deep into the MERN 
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60px">
-  <img src="https://img.shields.io/github/stars/your-username/your-repo?style=social" width="80px">
-</p>
+<iframe src="https://your-username.github.io/your-repo/" width="600" height="300"></iframe>
 
 
 
