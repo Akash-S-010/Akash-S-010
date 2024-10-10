@@ -12,7 +12,8 @@ I’m a full-stack web development student, currently diving deep into the MERN 
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-username&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)
+
 
 
 
