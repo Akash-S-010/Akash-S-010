@@ -6,7 +6,12 @@ I’m a full-stack web development student, currently diving deep into the MERN 
 
 ---
 
-<img src="https://raw.githubusercontent.com/your-username/your-repo/main/animated.svg" alt="animated svg" />
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=F7F7F7&width=500&height=100&lines=Hi!+I'm+Your+Name;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </a>
+</p>
+
 
 
 
