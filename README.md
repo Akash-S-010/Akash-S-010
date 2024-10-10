@@ -44,8 +44,8 @@ I’m a full-stack web development student, currently diving deep into the MERN 
 ---
 
 ### 📫 How to Reach Me
-- **Email**: [your.email@example.com](akashspalloor@gmail.com)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/akash-s-palloor/)
+- **Email**: [My Email](akashspalloor@gmail.com)
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/akash-s-palloor/)
 
 ---
 
