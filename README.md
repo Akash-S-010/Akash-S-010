@@ -1,9 +1,10 @@
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 <p align="center">
   <a href="https://github.com/your-username">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&color=FFD700&vCenter=true&width=550&height=100&lines=Hi%20%20%20%20%20%20%20%20%20I'm%20%20%%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2020%20%20%20%20%20Akash%20S;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&color=FFD700&vCenter=true&width=550&height=100&lines=Hi___I'm________Akash%20S;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 
