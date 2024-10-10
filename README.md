@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- Hi there, I'm Akash S !
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <h1> Hi there, I'm Akash S !</h1>
 
 **`Digital Craftsman (Developer and Designer)`**
 
