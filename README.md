@@ -1,9 +1,10 @@
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 <p align="center">
-  <a href="https://github.com/Akash-S-010">
+  <a href="https://github.com/your-username">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=F7F7F7&width=500&height=100&lines=Hi!+I'm+Akash S;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 **`Digital Craftsman (Developer and Designer)`**
