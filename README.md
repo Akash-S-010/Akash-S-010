@@ -5,7 +5,8 @@
 I’m a full-stack web development student, currently diving deep into the MERN stack while continuously sharpening my skills in frontend and backend technologies. I'm passionate about crafting user-friendly websites, experimenting with new web technologies, and contributing to open-source projects.
 
 ---
-![Creative GIF](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 
 ---
