@@ -5,6 +5,8 @@
 I’m a full-stack web development student, currently diving deep into the MERN stack while continuously sharpening my skills in frontend and backend technologies. I'm passionate about crafting user-friendly websites, experimenting with new web technologies, and contributing to open-source projects.
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=Akash-S-010&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### 🛠️ Technologies & Tools
 
