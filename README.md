@@ -6,24 +6,13 @@
 </p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 **`Digital Craftsman (Developer and Designer)`**
 
 I’m a full-stack web development student, currently diving deep into the MERN stack while continuously sharpening my skills in frontend and backend technologies. I'm passionate about crafting user-friendly websites, experimenting with new web technologies, and contributing to open-source projects.
 
 ---
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-username&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
