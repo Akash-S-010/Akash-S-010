@@ -6,6 +6,7 @@ I’m a full-stack web development student, currently diving deep into the MERN 
 
 ---
 
+<img src="https://raw.githubusercontent.com/your-username/your-repo/main/animated.svg" alt="animated svg" />
 
 
 
