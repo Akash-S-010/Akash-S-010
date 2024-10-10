@@ -1,4 +1,5 @@
-## <img src="https://raw.githubusercontent.com/your-username/your-repo/main/animated.svg" alt="animated svg" /> Hi there, I'm Akash S !
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ Hi there, I'm Akash S !
 
 **`Digital Craftsman (Developer and Designer)`**
 
