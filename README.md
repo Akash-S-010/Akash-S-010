@@ -7,6 +7,7 @@ I’m a full-stack web development student, currently diving deep into the MERN 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=Akash-S-010&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
 
 ### 🛠️ Technologies & Tools
 
