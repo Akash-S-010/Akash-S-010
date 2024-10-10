@@ -1,11 +1,11 @@
-## 👋 Hi there, I'm Akash S !
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Akash S !
 
 **`Digital Craftsman (Developer and Designer)`**
 
 I’m a full-stack web development student, currently diving deep into the MERN stack while continuously sharpening my skills in frontend and backend technologies. I'm passionate about crafting user-friendly websites, experimenting with new web technologies, and contributing to open-source projects.
 
 ---
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img src="https://raw.githubusercontent.com/your-username/your-repo/main/animated.svg" alt="animated svg" />
 
 
 
