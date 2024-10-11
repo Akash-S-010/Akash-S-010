@@ -17,12 +17,8 @@ I’m a full-stack web development student, currently diving deep into the MERN 
 
 
 
-
-
-
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=Akash-S-010&theme=algolia&no-frame=true&no-bg=true&title=Commit,Issues,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 
 
@@ -60,8 +56,8 @@ I’m a full-stack web development student, currently diving deep into the MERN 
 ---
 
 ### 📫 How to Reach Me
-- **Email**: [My Email](akashspalloor@gmail.com)
-- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/akash-s-palloor/)
+- **Email**: [akashspalloor@gmail.com](akashspalloor@gmail.com)
+- **LinkedIn**: [akash-s-palloor](https://www.linkedin.com/in/akash-s-palloor/)
 
 ---
 
