@@ -41,6 +41,8 @@ I’m a full-stack web development student, currently diving deep into the MERN 
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-S-010&layout=compact&theme=algolia)
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-S-010&show_icons=true&theme=algolia)
+---
 
 ### 🔭 My Current Focus
 - Building strong foundation in frontend technologies.
