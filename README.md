@@ -38,12 +38,8 @@ I’m a full-stack web development student, currently diving deep into the MERN 
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff" alt="VS Code" />
 </p>
 
----
-<div>
-  
+---  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-S-010&layout=compact&theme=algolia)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-S-010&show_icons=true&theme=algolia)
-</div>
 ---
 
 ### 🔭 My Current Focus
