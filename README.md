@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-<p align="center">
+<p align="left">
   <a href="https://github.com/your-username">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=32&duration=3000&color=FFD700&vCenter=true&width=550&height=100&lines=Hi!&nbsp;&nbsp;I'm&nbsp;&nbsp&nbsp;Akash&nbsp;S;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
