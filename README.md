@@ -58,14 +58,14 @@ I’m a full-stack web development student, currently diving deep into the MERN 
 ---
 
 ### 📫 How to Reach Me
-<p align="center">
-  <a href="https://www.instagram.com/yourinstagram" target="_blank">
+<p align="left">
+  <a href="https://www.instagram.com/akash_x0x_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/akash-s-palloor" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:akashspalloor@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
