@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ba86b8b4-4f44-4da1-bbc7-c98cafae2497)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+(https://github.com/user-attachments/assets/ba86b8b4-4f44-4da1-bbc7-c98cafae2497)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 <p align="left">
   <a href="https://github.com/your-username">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=32&duration=3000&color=FFD700&vCenter=true&width=550&height=100&lines=Hi!&nbsp;&nbsp;I'm&nbsp;&nbsp&nbsp;Akash&nbsp;S;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
