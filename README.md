@@ -54,7 +54,7 @@ I’m a full-stack web development student, currently diving deep into the MERN 
 ### 🔭 My Current Focus
 - Building strong foundation in frontend technologies.
 - Exploring frontend design principles to make interactive UIs.
-- Exploring FrameWorks links Bootstrap and Tailwind CCS.
+- Exploring JavaScript.
 - Incresing the number of projects.
 - Improving my JavaScript skills by tackling LeetCode challenges.
 
