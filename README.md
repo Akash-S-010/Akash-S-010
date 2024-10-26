@@ -23,10 +23,6 @@ I’m a full-stack web development student, currently diving deep into the MERN 
 
 
 ---
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-S-010&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-S-010&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Akash-S-010&theme=radical)
 
 
 ### 🛠️ Technologies & Tools
