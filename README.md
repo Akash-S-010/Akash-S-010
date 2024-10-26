@@ -40,7 +40,7 @@ I’m a full-stack web development student, currently diving deep into the MERN 
 </p>
 
 ---
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-S-010&show_icons=true&theme=radical)
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-S-010&show_icons=true&theme=radical)
 
 
 
