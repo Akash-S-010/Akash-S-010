@@ -40,7 +40,7 @@ I’m a full-stack web development student, currently diving deep into the MERN 
 </p>
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-S-010&show_icons=true&count_private=true&theme=dark&icon_color=blue)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-S-010&layout=compact&theme=dark&title_color=58a6ff&text_color=FFFFFF" alt="Most Used Languages" width="400">
 
 
 
