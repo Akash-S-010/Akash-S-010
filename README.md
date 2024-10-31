@@ -40,13 +40,7 @@ I’m a full-stack web development student, currently diving deep into the MERN 
 </p>
 
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-S-010&layout=compact&theme=dark&title_color=58a6ff&text_color=FFFFFF" alt="Most Used Languages" width="400">
-
-
-
-
-
-
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-S-010&layout=compact&theme=dark&title_color=58a6ff&text_color=FFFFFF" alt="Most Used Languages" width="400">
 
 
 ---  
@@ -88,4 +82,8 @@ I’m a full-stack web development student, currently diving deep into the MERN 
 - I love creative UI designing.
 - I love solving coding challenges.
 - I’m a huge fan of open-source collaboration!
+- 
+
+---
+Feel free to check out my repositories and leave a ⭐ if you like what you see! 😊
 
