@@ -40,7 +40,7 @@ I’m a full-stack web development student, currently diving deep into the MERN 
 </p>
 
 ---
- <img src="https://github-readme-stats.vercel.app/api?username=Akash-S-010&show_icons=true&count_private=true&theme=dark&icon_color=blue" alt="GitHub Stats">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-S-010&show_icons=true&count_private=true&theme=dark&icon_color=blue)
 
 
 
