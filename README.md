@@ -40,11 +40,11 @@ I’m a full-stack web development student, currently diving deep into the MERN 
 </p>
 
 ---
- <img src="https://github-readme-stats.vercel.app/api?username=Akash-S-010&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ffd700&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash-S-010&show_icons=true&theme=algolia&title_color=00aaff&icon_color=00aaff&text_color=ffffff&bg_color=151515" alt="GitHub Stats" width="400">
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-S-010&theme=algolia&background=151515&ring=00aaff&fire=00aaff&currStreakLabel=00aaff" alt="GitHub Streak" width="400">
 
----  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-S-010&layout=compact&theme=algolia)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-S-010&layout=compact&theme=algolia&title_color=00aaff&text_color=ffffff&bg_color=151515" alt="Top Languages" width="400">
 
 ---
 
