@@ -82,7 +82,6 @@ I’m a full-stack web development student, currently diving deep into the MERN 
 - I love creative UI designing.
 - I love solving coding challenges.
 - I’m a huge fan of open-source collaboration!
-- 
 
 ---
 Feel free to check out my repositories and leave a ⭐ if you like what you see! 😊
