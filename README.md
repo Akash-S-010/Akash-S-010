@@ -88,4 +88,9 @@ I’m a full-stack web development student, currently diving deep into the MERN 
 
 ---
 Feel free to check out my repositories and leave a ⭐ if you like what you see! 😊
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Akash-S-010/Akash-S-010/output/snake.svg" alt="Snake animation" />
+
+###
 
