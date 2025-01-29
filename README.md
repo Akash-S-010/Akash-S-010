@@ -7,7 +7,7 @@
 </p>
 
 
-**`Digital Craftsman (Developer and Designer)`**
+**`Digital Craftsman`**
 
 I’m a full-stack web development student, currently diving deep into the MERN stack while continuously sharpening my skills in frontend and backend technologies. I'm passionate about crafting user-friendly websites, experimenting with new web technologies, and contributing to open-source projects.
 ###
@@ -95,17 +95,17 @@ I’m a full-stack web development student, currently diving deep into the MERN 
 ---
 
 ### 🔭 My Current Focus
-- Building strong foundation in frontend technologies.
-- Exploring frontend design principles to make interactive UIs.
-- Exploring React JS.
+- Building a strong foundation in backend technologies.
+- Exploring backend design principles to create efficient and scalable APIs.
+- Exploring Node.js, Express.js, and backend frameworks.
 - Incresing the number of projects.
-- Improving my JavaScript skills by tackling LeetCode challenges.
 
 ---
 
 ### 🌱 What I’m Learning
 - Advanced **FrontEnd Technologies** techniques.
-- Mastering React.JS
+- Advanced **Backend Technologies** techniques.
+- Mastering React.js, Node.js and Express.js
 
 ---
 
