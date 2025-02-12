@@ -12,6 +12,9 @@
 I’m a full-stack web development student, currently diving deep into the MERN stack while continuously sharpening my skills in frontend and backend technologies. I'm passionate about crafting user-friendly websites, experimenting with new web technologies, and contributing to open-source projects.
 ###
 <div align="left">
+  <a href="https://akashs.vercel.app" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Website&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="website logo" />
+</a>
   <a href="https://www.linkedin.com/in/akash-s-mahe/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
