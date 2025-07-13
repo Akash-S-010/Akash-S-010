@@ -86,14 +86,6 @@ I’m a full-stack web development student, currently diving deep into the MERN 
 
 ---
 
-### 🔭 My Current Focus
-- Developing expertise in designing and optimizing RESTful APIs with Node.js and Express.js.
-- Enhancing skills in building responsive and dynamic user interfaces using React TailwindCSS and TypeScript
-- Exploring cloud-based deployment strategies with tools like Firebase and Vercel.
-- Incresing the number of projects.
-
----
-
 ### 🌱 What I’m Learning
 - Focusing Performance Optimization, Code Quality & Best Practices, Security, Scalability & Maintainability
 - Advanced React patterns and state management with Redux Toolkit.
