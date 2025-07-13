@@ -7,9 +7,9 @@
 </p>
 
 
-**`Digital Craftsman`**
+**`MERN Stack Developer `**
 
-I’m a full-stack web development student, currently diving deep into the MERN stack while continuously sharpening my skills in frontend and backend technologies. I'm passionate about crafting user-friendly websites, experimenting with new web technologies, and contributing to open-source projects.
+I’m a full-stack web development student, currently diving deep into the MERN stack while continuously sharpening my skills in frontend and backend technologies. I'm passionate about crafting user-friendly websites, experimenting with new web technologies.
 ###
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akash-s-mahe/) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akshs.vercel.app/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/akash.s.in/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:akashspalloor@gmail.com)
 
@@ -87,27 +87,33 @@ I’m a full-stack web development student, currently diving deep into the MERN 
 ---
 
 ### 🔭 My Current Focus
-- Building a strong foundation in backend technologies.
-- Exploring backend design principles to create efficient and scalable APIs.
-- Exploring Node.js, Express.js, and backend frameworks.
+- Developing expertise in designing and optimizing RESTful APIs with Node.js and Express.js.
+- Enhancing skills in building responsive and dynamic user interfaces using React TailwindCSS and TypeScript
+- Exploring cloud-based deployment strategies with tools like Firebase and Vercel.
 - Incresing the number of projects.
 
 ---
 
 ### 🌱 What I’m Learning
-- Advanced **FrontEnd Technologies** techniques.
-- Advanced **Backend Technologies** techniques.
-- Mastering React.js, Node.js and Express.js
+- Focusing Performance Optimization, Code Quality & Best Practices, Security, Scalability & Maintainability
+- Advanced React patterns and state management with Redux Toolkit.
+- Database optimization techniques with MongoDB.
+- Serverless architecture and microservices for scalable backend solutions.
+
+---
+### 💼 Open to Opportunities
+I’m actively seeking roles as a MERN Stack Developer where I can contribute to innovative projects, collaborate with dynamic teams, and grow professionally. Explore my repositories to see my work, and feel free to reach out for potential collaborations or opportunities!
 
 ---
 
-### ⚡ Fun Facts
-- I love creative UI designing.
+### 🌟 Highlights
+- Committed to continuous learning and staying updated with industry trends.
+- Built full-stack applications with secure authentication and real-time features.
 - I love solving coding challenges.
 - I’m a huge fan of open-source collaboration!
 
 ---
-Feel free to check out my repositories and leave a ⭐ if you like what you see! 😊
+Explore my repositories and let’s connect to build something extraordinary! 🚀 and leave a ⭐ if you like what you see! 😊
 
 
 
